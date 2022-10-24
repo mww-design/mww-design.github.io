@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-d/static/css/main.9e4daa3b.css",
+    "main.js": "/react-d/static/js/main.7a394e64.js",
+    "static/js/787.46a33aaf.chunk.js": "/react-d/static/js/787.46a33aaf.chunk.js",
+    "static/media/DSC08415-777.jpg": "/react-d/static/media/DSC08415-777.ec04aaa01d3834c7fd10.jpg",
+    "static/media/DSC08114-1008 Panorama-999.jpg": "/react-d/static/media/DSC08114-1008 Panorama-999.a46515c03f13b96b59bc.jpg",
+    "static/media/DSC04114.jpg": "/react-d/static/media/DSC04114.981faef5e3a4b1139fad.jpg",
+    "static/media/DSC08155-999.jpg": "/react-d/static/media/DSC08155-999.b7f0f813aed627ee63e7.jpg",
+    "static/media/DSC03141-HDR-555.jpg": "/react-d/static/media/DSC03141-HDR-555.03ac6581d3b1e67a20f8.jpg",
+    "static/media/DSC09042.jpg": "/react-d/static/media/DSC09042.c01c77c6ecb4d310f97e.jpg",
+    "static/media/logo195.png": "/react-d/static/media/logo195.4819ef326906b39c0801.png",
+    "index.html": "/react-d/index.html",
+    "main.9e4daa3b.css.map": "/react-d/static/css/main.9e4daa3b.css.map",
+    "main.7a394e64.js.map": "/react-d/static/js/main.7a394e64.js.map",
+    "787.46a33aaf.chunk.js.map": "/react-d/static/js/787.46a33aaf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e4daa3b.css",
+    "static/js/main.7a394e64.js"
+  ]
+}
